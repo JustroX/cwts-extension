@@ -2,7 +2,7 @@
 
 > Extension for saving Google Maps Coordinates to Google Sheets.
 
-1. Save a coordinate in 2 clicks.
+1. Save coordinates in two clicks.
 2. Supports feature identification ( `tree`, `shrub`, `others` )
 
 ### Why?
