@@ -41,4 +41,5 @@ I'm lazy.
      ![Extension](readme_images/2.PNG)
    - Choose feature
      ![Extension](readme_images/3.PNG)
-   - Tada
+   - Tada!
+     ![Extension](readme_images/4.PNG)
