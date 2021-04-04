@@ -35,11 +35,15 @@ I'm lazy.
    - Go to `https://google.com/maps`
    - Click the extension icon
    - Enter your sheet ID and press **Save Setting**
+ 
      ![Extension](readme_images/1.PNG)
 
    - Pick a location. Right click and click the coordinates.
-     ![Extension](readme_images/2.PNG)
+ 
+      ![Extension](readme_images/2.PNG)
    - Choose feature
-     ![Extension](readme_images/3.PNG)
+     
+      ![Extension](readme_images/3.PNG)
    - Tada!
-     ![Extension](readme_images/4.PNG)
+     
+      ![Extension](readme_images/4.PNG)
