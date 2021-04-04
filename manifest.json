@@ -1,0 +1,14 @@
+{
+  "name": "CWTS Pins",
+  "description": "I'm a lazy person.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "main.js"
+  },
+  "permissions": ["storage", "activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "options_page": "options.html"
+}

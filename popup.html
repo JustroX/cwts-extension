@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h3>Google Sheets ID</h3>
+    <input id="sidInput" type="text" />
+    <button id="submitButton">Save Setting</button>
+
+    <div
+      class="modal"
+      id="cwts-modal"
+      style="
+        width: 200px;
+        padding: 10px;
+        position: absolute;
+        z-index: 3;
+        background-color: white;
+        top: 50%;
+        left: 50%;
+      "
+    >
+      <div id="c-buttons">
+        <button
+          onmouseover="this.style.color='blue'"
+          onmouseout="this.style.color='black'"
+          style="width: 200px; border: 1px solid #dedede; cursor: pointer"
+          id="tree-option"
+        >
+          Tree
+        </button>
+        <br />
+        <button
+          onmouseover="this.style.color='blue'"
+          onmouseout="this.style.color='black'"
+          style="width: 200px; border: 1px solid #dedede; cursor: pointer"
+          id="shrub-option"
+        >
+          Shrub
+        </button>
+        <br />
+        <button
+          onmouseover="this.style.color='blue'"
+          onmouseout="this.style.color='black'"
+          style="width: 200px; border: 1px solid #dedede; cursor: pointer"
+          id="other-option"
+        >
+          Other
+        </button>
+        <br />
+        <button
+          onmouseover="this.style.color='blue'"
+          onmouseout="this.style.color='black'"
+          style="width: 200px; border: 1px solid #dedede; cursor: pointer"
+          id="cancel-option"
+        >
+          Cancel
+        </button>
+        <br />
+      </div>
+      <div id="c-loading">
+        <p>Loading</p>
+      </div>
+    </div>
+
+    <script src="popup.js"></script>
+  </body>
+</html>
