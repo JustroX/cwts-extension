@@ -14,6 +14,7 @@ I'm lazy.
 1. Create Spreadsheet
 
    - **IMPORTANT:** Add header rows (`Latitude`,`Longitude`,etc.)
+   
      ![Extension](readme_images/header.PNG)
 
    - Share the sheet to the extension server's email (`hatchling@evident-wind-286216.iam.gserviceaccount.com`)
